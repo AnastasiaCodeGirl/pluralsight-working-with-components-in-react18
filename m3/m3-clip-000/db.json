@@ -2,7 +2,7 @@
   "todos": [
     {
       "todoText": "Clean car",
-      "completed": false,
+      "completed": true,
       "important": false,
       "id": 11
     },
@@ -27,13 +27,13 @@
     {
       "id": 9,
       "todoText": "Do expense report",
-      "completed": false,
+      "completed": true,
       "important": false
     },
     {
       "id": 10,
       "todoText": "Walk the dog",
-      "completed": false,
+      "completed": true,
       "important": true
     }
   ]
